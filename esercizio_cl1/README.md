@@ -3,3 +3,12 @@ Stai pianificando un viaggio negli USA. Scrivi una funzione che converta una som
 
 
 ## RAGIONAMENTO
+
+- definiamo il tasso di cambio
+- leggiamo la somma in euro
+- moltiplichiamo la somma per il tasso di cambio
+- stampo il risultato
+
+
+
+
