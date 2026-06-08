@@ -13,3 +13,18 @@ function getDayByWeek(numberOfDay) {
 }
 const dayOfweek = getDayByWeek(days);
 console.log(dayOfweek);
+
+/* function getDayByWeek(numberOfDay) {
+
+    switch (numberOfDay) {
+        case 1: return "Lunedi";
+        case 2: return "Martedi";
+        case 3: return "Marcoledi";
+        case 4: return "Giovedi";
+        case 5: return "Venerdi";
+        case 6: return "Sabato";
+        case 7: return "Domenica";
+        default: return "Errore";
+
+    }
+} */
