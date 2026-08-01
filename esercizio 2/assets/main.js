@@ -1,5 +1,5 @@
 console.log("JS Caricato")
-let age = Number(prompt("Quanti anni hai?"));
+let age = Number(prompt("Quanti anni hai? "));
 
 const messageAge = getCalcAge(age);
 console.log(messageAge);
